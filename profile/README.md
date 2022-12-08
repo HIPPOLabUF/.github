@@ -1,6 +1,5 @@
 ## Welcome to the HIPPO Lab @ UF's GitHub page 👋
 
-You just stumbled into the HIPPO lab
 <!--
 
 **Here are some ideas to get you started:**
@@ -12,7 +11,9 @@ You just stumbled into the HIPPO lab
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ Hi, this is the GitHub organization of the Human Informatics and Predictive Performance Optimization (HIPPO) Laboratory at the University of Florida. Our lab is part of the Department of Electrical and Computer Engineering. Come check us out at our [homepage](https://hippo.ece.ufl.edu/).
+🙋‍♀️ You just discovered the GitHub organization of the Human Informatics and Predictive Performance Optimization (HIPPO) Laboratory at the University of Florida. Our lab is part of the Department of Electrical and Computer Engineering. Come check us out at our [homepage](https://hippo.ece.ufl.edu/).
+
+![hippolab-logo](https://hippo.ece.ufl.edu/wp-content/uploads/sites/63/2022/05/allhippos_3-2048x703.png)
 
 🤝 Want to get involved with our work or have any questions on our software hosted on GitHub? Head to our [contacts page](https://hippo.ece.ufl.edu/contact/) to get in touch with our lab director.
 
