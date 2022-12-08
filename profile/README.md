@@ -19,6 +19,6 @@
 
 💻 Catch up with our projects and research over at our [publications page](https://hippo.ece.ufl.edu/publications/).
 
-🍿 Did you know that hippos tend to live in herds of around 10 to 20 individuals? (Source: [National Geographic](https://www.natgeokids.com/uk/discover/animals/general-animals/ten-hippo-facts/))
+🍿 Did you know that hippos tend to live in herds of around 10 to 20 individuals? ([Source](https://www.natgeokids.com/uk/discover/animals/general-animals/ten-hippo-facts/))
 
 🧙 As a not so ancient proverb says, "strive to *be like soup*."
